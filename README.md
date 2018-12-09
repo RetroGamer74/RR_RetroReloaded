@@ -11,7 +11,7 @@ This package will allow you to boot a CFW like a Boot Manager. This is a solutio
 Installation
 =============
 
-1.- Just download the latest release and extract it overwriting the existing files in your microSD.
+1.- Just download the latest release ( https://github.com/RetroGamer74/RR_RetroReloaded/releases ), extract it overwriting the existing files in your microSD.
 
 2.- Boot using one of the next choices.
 

@@ -77,8 +77,22 @@ Firmware supported: 1.0.0 - 6.1.0
 You can play in Super Lan Play service, but still not games that requires the KIP ( kernel patch ) to play games like SuperSmas..., Diab, and some others.
 
 # CREDITS
-Atmosphere
-ReiNX
-TegraRCMGui
-Switch Lan Play
-Hekate CTCaer
+**Atmosphere**
+
+https://github.com/Atmosphere-NX/Atmosphere
+
+**ReiNX**
+
+https://github.com/Reisyukaku/ReiNX
+
+**TegraRCMGui**
+
+https://github.com/eliboa/TegraRcmGUI/releases
+
+**Switch Lan Play**
+
+https://github.com/spacemeowx2/ldn_mitm/releases
+
+**Hekate CTCaer**
+
+https://github.com/CTCaer/hekate

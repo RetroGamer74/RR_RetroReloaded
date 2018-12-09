@@ -1,8 +1,12 @@
-# RR RetroReloaded CFW
+# RR 1.0 (RetroReloaded CFW)
 
-This is a CFW for Switch based on already existant CFW like, Atmosphere, ReiNX, and SX OS. ( See CREDITS for further info )
+This is a CFW for Switch based on already existant CFW like, Atmosphere, ReiNX, and SX OS. 
+
+( See CREDITS for further info )
 
 This package will allow you to boot a CFW like a Boot Manager. This is a solution All In One. ( AIO )
+
+![alt text](RR_1_0.jpg)
 
 Installation
 =============

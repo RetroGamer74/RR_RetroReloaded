@@ -38,7 +38,7 @@ You're ready to choose your CFW. Depending on your desires, you can boot one of 
 
 **First choice:**
 
-[Atmosphere]
+**[Atmosphere]**
 
 Currently 0.8.2.
 
@@ -53,7 +53,7 @@ http://lanboard.retrogamer.tech
 
 **Second choice:**
 
-[ReiNX]
+**[ReiNX]**
 
 Currently 1.8
 
@@ -68,7 +68,7 @@ http://lanboard.retrogamer.tech
 
 **Third choice:**
 
-[SX OS]
+**[SX OS]**
 
 Currently: It depends on the boot.dat file you copy in the boot of your microSD. Remember to copy your license.dat file also.
 

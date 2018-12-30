@@ -21,7 +21,7 @@ Installation
 
 You will find the file payload.bin in the root of the microSD files. This package provides that file. Copy that file into your Desktop PC computer.
 
-Using a payload injector, like TegraRCMGui, ( see CREDITS ), points the file browser to the hekate_ctcaer_4.2.bin file. Connect an USB-C cable to link your Switch to your PC. Enter into RCM mode. If you don't know how to do that you will have to look for further info. That's not covered here. You can get help in our discord channel. You can join us using this link:
+Using a payload injector, like TegraRCMGui, ( see CREDITS ), points the file browser to the payload.bin file. Connect an USB-C cable to link your Switch to your PC. Enter into RCM mode. If you don't know how to do that you will have to look for further info. That's not covered here. You can get help in our discord channel. You can join us using this link:
 
 https://discord.gg/cUnjkPH
 

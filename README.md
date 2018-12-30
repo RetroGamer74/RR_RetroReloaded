@@ -1,4 +1,4 @@
-# RR 1.0 (RetroReloaded CFW)
+# RR (RetroReloaded CFW)
 
 This is a CFW for Switch based on already existant CFW like, Atmosphere, ReiNX, and SX OS. 
 

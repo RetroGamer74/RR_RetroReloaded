@@ -8,6 +8,8 @@ This package will allow you to boot a CFW like a Boot Manager. This is a solutio
 
 ![alt text](image0-3.jpg)
 
+Use Volume + , Volume - to move across the CFWs available and choose the one you want pressing Power. Touch support is incoming.
+
 Installation
 =============
 
@@ -17,7 +19,7 @@ Installation
 
 **Option 1:**
 
-You will find the file hekate_ctcaer_4.2.bin in the root of the microSD files. This package provides that file. It's also a credited file by CTCaer. Copy that file into your Desktop PC computer.
+You will find the file payload.bin in the root of the microSD files. This package provides that file. Copy that file into your Desktop PC computer.
 
 Using a payload injector, like TegraRCMGui, ( see CREDITS ), points the file browser to the hekate_ctcaer_4.2.bin file. Connect an USB-C cable to link your Switch to your PC. Enter into RCM mode. If you don't know how to do that you will have to look for further info. That's not covered here. You can get help in our discord channel. You can join us using this link:
 
@@ -72,9 +74,9 @@ http://lanboard.retrogamer.tech
 
 Currently: It depends on the boot.dat file you copy in the boot of your microSD. Remember to copy your license.dat file also.
 
-Firmware supported: 1.0.0 - 6.1.0
+Firmware supported: 1.0.0 - 6.2.0
 
-You can play in Super Lan Play service, but still not games that requires the KIP ( kernel patch ) to play games like SuperSmas..., Diab, and some others.
+You can play in Super Lan Play service, as the other CFW. KIP patch was also included in SX OS.
 
 # CREDITS
 **Atmosphere**

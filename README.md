@@ -6,7 +6,7 @@ This is a CFW for Switch based on already existant CFW like, Atmosphere, ReiNX, 
 
 This package will allow you to boot a CFW like a Boot Manager. This is a solution All In One. ( AIO )
 
-![alt text](image0-3.jpg)
+![alt text](RetroReloaded.jpg)
 
 Use Volume + , Volume - to move across the CFWs available and choose the one you want pressing Power. Touch support is incoming.
 

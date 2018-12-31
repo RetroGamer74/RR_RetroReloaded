@@ -57,7 +57,7 @@ http://lanboard.retrogamer.tech
 
 **[ReiNX]**
 
-Currently 1.8
+Currently 2.0
 
 Firmwares supported: 1.0.0 - 6.2.0
 

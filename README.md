@@ -29,7 +29,7 @@ https://discord.gg/cUnjkPH
 
 You also can use R4i Dongle. Just using the official download link:
 
-https://bit.ly/2zsClBu
+https://bit.ly/2EsOeKj
 
 Connect your dongle to your PC using microUSB cable. Set it to Flash mode by pressing twice the button in the dongle. When you do that you will be able to browse the dongle folder. Drag & drop the new UF2 file downloaded from the link you used before. When the flash writing has finished the dongle folder will be closed automatically. You're ready to use. Use your jig, use your dongle. Enter into RCM and you will see the menu.
 

@@ -42,9 +42,9 @@ You're ready to choose your CFW. Depending on your desires, you can boot one of 
 
 **[Atmosphere]**
 
-Currently 0.8.2.
+Currently 0.8.4.
 
-Firmwares supported: 1.0.0 - 6.2.0
+Firmwares supported: 1.0.0 - 7.0.0 / 7.0.1
 
 Included support for playing to Super Lan Play. You can play with your Switch, even if it's banned, with other players, in multiplayer. 
 

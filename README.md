@@ -8,7 +8,7 @@ This package will allow you to boot a CFW like a Boot Manager. This is a solutio
 
 ![alt text](RR_146.png)
 
-Use Volume + , Volume - to move across the CFWs available and choose the one you want pressing Power. Touch support is incoming.
+Touch support capable.
 
 [![Chat on Discord](https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d446973636f72642d627269676874677265656e2e737667)](https://discordapp.com/invite/cUnjkPH)
 

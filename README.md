@@ -22,7 +22,7 @@ You've got two options. Using the Windows Installer, or just downloading the ret
 ### Option 1
 Just download the [Windows RetroReloaded Installer](https://github.com/RetroGamer74/RR_RetroReloaded-RetroReloaded-Switch-RR/blob/master/RR_Installer.rar) to automatically prepare your microSD. 
 
-![alt text](RR_installer.jpg)
+![alt text](RR_Installer.jpg)
 
 ### Option 2
 Just download the latest release ( https://github.com/RetroGamer74/RR_RetroReloaded/releases ), extract it overwriting the existing files in your microSD.

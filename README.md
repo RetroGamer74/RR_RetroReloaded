@@ -15,8 +15,19 @@ Touch support capable.
 Installation
 =============
 
-1.- Just download the latest release ( https://github.com/RetroGamer74/RR_RetroReloaded/releases ), extract it overwriting the existing files in your microSD.
+## Download
 
+You've got two options. Using the Windows Installer, or just downloading the retroreloaded package and extract it by yourself in your microSD.
+
+### Option 1
+Just download the [Windows RetroReloaded Installer](https://github.com/RetroGamer74/RR_RetroReloaded-RetroReloaded-Switch-RR/blob/master/RR_Installer.rar) to automatically prepare your microSD. 
+
+![alt text](RR_installer.jpg)
+
+### Option 2
+Just download the latest release ( https://github.com/RetroGamer74/RR_RetroReloaded/releases ), extract it overwriting the existing files in your microSD.
+
+## Boot
 2.- Boot using one of the next choices.
 
 **Option 1:**

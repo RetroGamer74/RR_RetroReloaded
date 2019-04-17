@@ -1,4 +1,6 @@
-# RR (RetroReloaded CFW)
+# RR 2.XX (RetroReloaded CFW)
+
+Very Important: For new users, or users upgrading to RetroReloaded 2.XX for first time, please remove the folder atmosphere and ReiNX in your microSD if they already exists. This will provide a clean status before to start the installation.
 
 This is a CFW for Switch based on already existant CFW like, Atmosphere, ReiNX, and SX OS. 
 
@@ -45,6 +47,16 @@ You also can use R4i Dongle. Just using the official download link:
 https://bit.ly/2EsOeKj
 
 Connect your dongle to your PC using microUSB cable. Set it to Flash mode by pressing twice the button in the dongle. When you do that you will be able to browse the dongle folder. Drag & drop the new UF2 file downloaded from the link you used before. When the flash writing has finished the dongle folder will be closed automatically. You're ready to use. Use your jig, use your dongle. Enter into RCM and you will see the menu.
+
+## The Toolkit
+
+RetroReloaded 2.XX includes RetroReloaded Toolkit in the switch homebrew folder. You will find it into the homebrew apps list.
+
+From this Toolkit you will be able to enable or disable the themes capability. Change the themes between the ones provided by RetroReloaded. Enable or disable services in background. Warm reboot.
+
+![alt_text](https://github.com/RetroGamer74/RR_Updater-RetroReloaded-Switch-RR/blob/master/RR_Toolkit.JPG)
+
+Since RetroReloaded 2.XX, toolkit, it is already included in the full RetroReloaded CFW package. But if you want to download the toolkit only you can get it [here](https://github.com/RetroGamer74/RR_Updater-RetroReloaded-Switch-RR/releases) .
 
 ## Boot Manager
 

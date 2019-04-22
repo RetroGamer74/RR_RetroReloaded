@@ -2,6 +2,10 @@
 
 Very Important: For new users, or users upgrading to RetroReloaded 2.XX for first time, please remove the folder atmosphere and ReiNX in your microSD if they already exists. This will provide a clean status before to start the installation.
 
+RR 2.01 requires you update the payload.bin. So remember to copy payload.bin from this release to your desktop PC if you need to boot it using TegraRCMGui.
+
+RR 2.01 supporting Firmware 8.0.0 has removed Template feature because it crashes. Do not enable, by the way, using RetroReloaded Toolkit.
+
 This is a CFW for Switch based on already existant CFW like, Atmosphere, ReiNX, and SX OS. 
 
 ( See CREDITS for further info )

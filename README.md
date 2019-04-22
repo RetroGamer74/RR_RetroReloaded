@@ -43,7 +43,7 @@ Boot using one of the next choices.
 
 #### Option 1
 
-Just for once, download the NX_Payload_Forwarder I developed, using this [link](https://github.com/RetroGamer74/NX_Payload_Forwarder), and copy it in some place in your computer. You only need to download this payload once. You will always use the same, even RetroReloaded update its payload.
+Just for once, download the [NX_Payload_Forwarder](https://github.com/RetroGamer74/NX_Payload_Forwarder) I developed, using this [link](https://github.com/RetroGamer74/NX_Payload_Forwarder), and copy it in some place in your computer. You only need to download this payload once. You will always use the same, even RetroReloaded update its payload.
 
 Using a payload injector, like TegraRCMGui, ( see CREDITS ), points the file browser to the payload.bin file. Connect an USB-C cable to link your Switch to your PC. Enter into RCM mode. If you don't know how to do that you will have to look for further info. That's not covered here. You can get help in our discord channel. You can join us using this link:
 

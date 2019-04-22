@@ -2,9 +2,14 @@
 
 Very Important: For new users, or users upgrading to RetroReloaded 2.XX for first time, please remove the folder atmosphere and ReiNX in your microSD if they already exists. This will provide a clean status before to start the installation.
 
-RR 2.01 requires you update the payload.bin. So remember to copy payload.bin from this release to your desktop PC if you need to boot it using TegraRCMGui.
+### Changelog 2.0.1
+* Requires you update the payload.bin. So remember to copy payload.bin from this release to your desktop PC if you need to boot it using TegraRCMGui.
 
-RR 2.01 supporting Firmware 8.0.0 has removed Template feature because it crashes. Do not enable, by the way, using RetroReloaded Toolkit.
+* Removed Template feature because it crashes in 8.0.0. Do not enable, by the way, using RetroReloaded Toolkit.
+
+* Do not enable emuiibo service in firmware 8.0.0. It freeze startup.
+
+### What RetroReloaded is?
 
 This is a CFW for Switch based on already existant CFW like, Atmosphere, ReiNX, and SX OS. 
 
@@ -12,7 +17,7 @@ This is a CFW for Switch based on already existant CFW like, Atmosphere, ReiNX, 
 
 This package will allow you to boot a CFW like a Boot Manager. This is a solution All In One. ( AIO )
 
-![alt text](RR_146.png)
+![alt text](screenshot.jpg)
 
 Touch support capable.
 

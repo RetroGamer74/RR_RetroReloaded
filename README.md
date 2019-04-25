@@ -2,6 +2,7 @@
 
 Very Important: For new users, or users upgrading to RetroReloaded 2.XX for first time, please remove the folder atmosphere and ReiNX in your microSD if they already exists. This will provide a clean status before to start the installation.
 
+
 ### Changelog 2.0.1
 * Requires you update the payload.bin. So remember to copy payload.bin from this release to your desktop PC if you need to boot it using TegraRCMGui.
 
@@ -77,7 +78,7 @@ You're ready to choose your CFW. Depending on your desires, you can boot one of 
 
 Currently 0.8.8.
 
-Firmwares supported: 1.0.0 - 8.0.0
+Firmwares supported: 1.0.0 - 8.0.0/8.0.1
 
 Included support for playing to Super Lan Play. You can play with your Switch, even if it's banned, with other players, in multiplayer. 
 
@@ -92,7 +93,7 @@ http://lanboard.retrogamer.tech
 
 Currently 2.1.1
 
-Firmwares supported: 1.0.0 - 7.0.0 / 7.0.1
+Firmwares supported: 1.0.0 - 8.0.0 / 8.0.1
 
 Included support for playing to Super Lan Play. You can play with your Switch, even if it's banned, with other players, in multiplayer. 
 

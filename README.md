@@ -76,7 +76,7 @@ You're ready to choose your CFW. Depending on your desires, you can boot one of 
 
 **[Atmosphere]**
 
-Currently 0.8.8.
+Currently 0.8.9.
 
 Firmwares supported: 1.0.0 - 8.0.0/8.0.1
 
@@ -91,7 +91,7 @@ http://lanboard.retrogamer.tech
 
 **[ReiNX]**
 
-Currently 2.1.1
+Currently 2.2.1
 
 Firmwares supported: 1.0.0 - 8.0.0 / 8.0.1
 

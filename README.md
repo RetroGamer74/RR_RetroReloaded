@@ -108,7 +108,7 @@ http://lanboard.retrogamer.tech
 
 Currently: It depends on the boot.dat file you copy in the boot of your microSD. Remember to copy your license.dat file also.
 
-Firmware supported: 1.0.0 - 7.0.0 / 7.0.1
+Firmware supported: 1.0.0 - 8.0.0 / 8.0.1
 
 You can play in Super Lan Play service, as the other CFW. KIP patch was also included in SX OS.
 

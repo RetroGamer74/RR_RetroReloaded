@@ -2,6 +2,10 @@
 
 Very Important: For new users, or users upgrading to RetroReloaded 2.XX for first time, please remove the folder atmosphere and ReiNX in your microSD if they already exists. This will provide a clean status before to start the installation.
 
+### Changelog 2.0.7
+* Fixed: ReiNX sigpatches. All games working.
+
+* Updated emuiibo. You can enable using RetroReloaded Toolkit Updater.
 
 ### Changelog 2.0.1
 * Requires you update the payload.bin. So remember to copy payload.bin from this release to your desktop PC if you need to boot it using TegraRCMGui.

@@ -2,6 +2,9 @@
 
 Very Important: For new users, or users upgrading to RetroReloaded 2.XX for first time, please remove the folder atmosphere and ReiNX in your microSD if they already exists. This will provide a clean status before to start the installation.
 
+### Changelog 2.0.8
+* Templates feature restored.
+
 ### Changelog 2.0.7
 * Fixed: ReiNX sigpatches. All games working.
 

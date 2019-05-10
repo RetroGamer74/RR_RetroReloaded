@@ -2,6 +2,11 @@
 
 Very Important: For new users, or users upgrading to RetroReloaded 2.XX for first time, please remove the folder atmosphere and ReiNX in your microSD if they already exists. This will provide a clean status before to start the installation.
 
+### Changelog 2.0.9
+* Emuiibo 0.2
+
+* RetroReloaded Toolkit updated. You can now enable/disable services for ReiNX.
+
 ### Changelog 2.0.8
 * Templates feature restored.
 

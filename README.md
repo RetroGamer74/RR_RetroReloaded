@@ -19,7 +19,7 @@ This is a CFW for Switch based on already existant CFW like, Atmosphere, ReiNX, 
 
 This package will allow you to boot a CFW like a Boot Manager. This is a solution All In One. ( AIO )
 
-![alt text](screenshot.jpg)
+![alt text](RetroReloaded_Emunand.jpg)
 
 Touch support capable.
 
@@ -77,7 +77,7 @@ You're ready to choose your CFW. Depending on your desires, you can boot one of 
 
 **[Atmosphere]**
 
-Currently 0.8.10.
+Currently 0.9.0.
 
 Firmwares supported: 1.0.0 - 8.0.0/8.0.1
 

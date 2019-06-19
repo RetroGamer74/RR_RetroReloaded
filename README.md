@@ -19,7 +19,7 @@ This is a CFW for Switch based on already existant CFW like, Atmosphere, ReiNX, 
 
 This package will allow you to boot a CFW like a Boot Manager. This is a solution All In One. ( AIO )
 
-![alt text](RetroReloaded_Emunand.jpg)
+![alt text](rr_boot.jpg)
 
 Touch support capable.
 

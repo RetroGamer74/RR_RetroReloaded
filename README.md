@@ -4,12 +4,14 @@ Very Important: For new users, or users upgrading to RetroReloaded 2.XX for firs
 
 You can see changelog on each release.
 
-### Important Changelog 2.0.1
+### Important Changelog 2.X
 * Requires you update the payload.bin. So remember to copy payload.bin from this release to your desktop PC if you need to boot it using TegraRCMGui.
 
-* Removed Template feature because it crashes in 8.0.0. Do not enable, by the way, using RetroReloaded Toolkit.
+### Changelog 2.25
 
-* Do not enable emuiibo service in firmware 8.0.0. It freeze startup.
+Added Hekate 5.0 & NYX 0.8.0
+Many new featured even to build emummc.
+When using Hekate you can always back to RetroReloaded using the button "Back RR". See image below.
 
 ### What RetroReloaded is?
 
@@ -18,6 +20,11 @@ This is a CFW for Switch based on already existant CFW like, Atmosphere, ReiNX, 
 ( See CREDITS for further info )
 
 This package will allow you to boot a CFW like a Boot Manager. This is a solution All In One. ( AIO )
+
+![alt text](BackToRR.jpg)
+
+
+Note: When using hekate you can always back to RetroReloaded by using the "Back RR" button in the hekate bottom options.
 
 ![alt text](rr_boot_v2.jpg)
 

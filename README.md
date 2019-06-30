@@ -21,12 +21,11 @@ This is a CFW for Switch based on already existant CFW like, Atmosphere, ReiNX, 
 
 This package will allow you to boot a CFW like a Boot Manager. This is a solution All In One. ( AIO )
 
-![alt text](BackToRR.jpg)
-
+![alt text](rr_boot_v2.jpg)
 
 Note: When using hekate you can always back to RetroReloaded by using the "Back RR" button in the hekate bottom options.
 
-![alt text](rr_boot_v2.jpg)
+![alt text](BackToRR.png)
 
 Touch support capable.
 

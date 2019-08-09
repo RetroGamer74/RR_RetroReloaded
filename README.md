@@ -83,7 +83,7 @@ You're ready to choose your CFW. Depending on your desires, you can boot one of 
 
 **[Atmosphere]**
 
-Currently 0.9.1.
+Currently 0.9.3.
 
 Firmwares supported: 1.0.0 - 8.1.0
 

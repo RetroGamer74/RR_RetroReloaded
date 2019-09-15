@@ -7,6 +7,10 @@ You can see changelog on each release.
 ### Important Changelog 2.X
 * Requires you update the payload.bin. So remember to copy payload.bin from this release to your desktop PC if you need to boot it using TegraRCMGui.
 
+### Changelog 2.38
+Remove your Atmosphere folder before to copy this release.
+Remove from your Switch folder Tinfoil and Mercury if you've got it. They won't work anymore in current conditions. It requires its own Atmosphere release. Unacceptable.
+
 ### Changelog 2.25
 
 Added Hekate 5.0 & NYX 0.8.0
@@ -83,9 +87,9 @@ You're ready to choose your CFW. Depending on your desires, you can boot one of 
 
 **[Atmosphere]**
 
-Currently 0.9.3.
+Currently 0.9.4.
 
-Firmwares supported: 1.0.0 - 8.1.0
+Firmwares supported: 1.0.0 - 9.0.0
 
 Included support for playing to Super Lan Play. You can play with your Switch, even if it's banned, with other players, in multiplayer. 
 

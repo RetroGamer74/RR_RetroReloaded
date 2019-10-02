@@ -89,7 +89,7 @@ You're ready to choose your CFW. Depending on your desires, you can boot one of 
 
 Currently 0.9.4.
 
-Firmwares supported: 1.0.0 - 9.0.0
+Firmwares supported: 1.0.0 - 9.0.1
 
 Included support for playing to Super Lan Play. You can play with your Switch, even if it's banned, with other players, in multiplayer. 
 
@@ -119,7 +119,7 @@ http://lanboard.retrogamer.tech
 
 Currently: It depends on the boot.dat file you copy in the boot of your microSD. Remember to copy your license.dat file also.
 
-Firmware supported: 1.0.0 - 8.1.0
+Firmware supported: 1.0.0 - 9.0.1
 
 You can play in Super Lan Play service, as the other CFW. KIP patch was also included in SX OS.
 

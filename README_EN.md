@@ -1,161 +1,104 @@
-# RR (RetroReloaded - Gestor de Arranque)
+# RR 2.XX (RetroReloaded CFW)
 
-Muy Importante: Para nuevos usuarios, o usuarios actualizando a RetroReloaded 2.XX por primera vez, eliminar la carpeta de atmosphere y ReiNX en tu microSD si existen. Esto proporcionará un estado limpio antes de instalarlo.
-Puedes ver los cambios de cada versión en las [Releases.](https://github.com/RetroGamer74/RR_RetroReloaded/releases)
+Very Important: For new users, or users upgrading to RetroReloaded 2.XX for first time, please remove the folder atmosphere and ReiNX in your microSD if they already exists. This will provide a clean status before to start the installation.
 
-### Important Changes
-* Siempre que descargues una versión de RetroReloaded, puede ser que el payload.bin que extraerás del paquete y quedará almacenado en tu microSD en la carpeta raíz haya sido actualizado. Si usas TegraRCMGUI para arrancar desde tu PC debes copiar este archivo en tu PC. No lo elimines de la SD. Sólo copialo, para luego lanzarlo desde TegraRCMGUI.
+You can see changelog on each release.
 
-Tinfoil ha sido eliminado.
+### Important Changelog 2.X
+* Requires you update the payload.bin. So remember to copy payload.bin from this release to your desktop PC if you need to boot it using TegraRCMGui.
 
-Puedes eliminar de tu microSD de la carpeta swich, las carpetas Tinfoil y Mercury si aún las tienes. No se van a usar más en el contexto actual. Tinfoil requiere ahora una versión de Atmosphere preparada ad-hoc para esta herramienta y no es algo aceptable.
+### Changelog 2.38
+Remove your Atmosphere folder before to copy this release.
+Remove from your Switch folder Tinfoil and Mercury if you've got it. They won't work anymore in current conditions. It requires its own Atmosphere release. Unacceptable.
 
-Cuando utilices la herramienta Hekate desde RetroReloaded hay un botón que pone Back RR que te permite volver al boot manager de RetroReloaded cuando quieras.
+### Changelog 2.25
 
-### Qué es RetroReloaded?
+Added Hekate 5.0 & NYX 0.8.0
+Many new featured even to build emummc.
+When using Hekate you can always back to RetroReloaded using the button "Back RR". See image below.
 
-Es un Boot Manager para Switch que permite arrancar de una forma preconfigurada custom firmwares como Atmosphere, ReiNX y SX OS, desde un menú único. Además de herramientas de gran utilidad.
+### What RetroReloaded is?
 
-( Ver los  CRÉDITOS para más información )
+This is a CFW for Switch based on already existant CFW like, Atmosphere, ReiNX, and SX OS. 
+
+( See CREDITS for further info )
+
+This package will allow you to boot a CFW like a Boot Manager. This is a solution All In One. ( AIO )
 
 ![alt text](rr_boot_v2.jpg)
 
+Note: When using hekate you can always back to RetroReloaded by using the "Back RR" button in the hekate bottom options.
+
 ![alt text](BackToRR.png)
 
-Soporte touch.
+Touch support capable.
 
 [![Chat on Discord](https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d446973636f72642d627269676874677265656e2e737667)](https://discordapp.com/invite/cUnjkPH)
 
-## Instalacion
+## Installation
 
-### Descarga
+### Download
 
-Tienes dos opciones. Utilizar el Windows Installer, o descargar el zip que hay en la sección de [Releases](https://github.com/RetroGamer74/RR_RetroReloaded/releases) y extraerlo tu mismo sobre tu microSD.
+You've got two options. Using the Windows Installer, or just downloading the retroreloaded package and extract it by yourself in your microSD.
 
-#### Opción 1
-Descarga el [Windows RetroReloaded Installer](https://github.com/RetroGamer74/RR_RetroReloaded-RetroReloaded-Switch-RR/blob/master/RR_Installer.rar) para preparar tu microSD automáticamente. 
+#### Option 1
+Just download the [Windows RetroReloaded Installer](https://github.com/RetroGamer74/RR_RetroReloaded-RetroReloaded-Switch-RR/blob/master/RR_Installer.rar) to automatically prepare your microSD. 
 
 ![alt text](RR_Installer.jpg)
 
-#### Opción 2
-Descarga la última release disponible ( https://github.com/RetroGamer74/RR_RetroReloaded/releases ), extráela sobreescribiendo los archivos ya existentes en tu microSD. No sobreescribe archivos de configuración de tus aplicaciones ni te elimina datos.
+#### Option 2
+Just download the latest release ( https://github.com/RetroGamer74/RR_RetroReloaded/releases ), extract it overwriting the existing files in your microSD.
 
-### Arranque
+### Boot
 
-Para arrancar RetroReloaded puedes usar las siguientes opciones.
+Boot using one of the next choices.
 
-#### Usando un cable USB-C y un PC
+#### Option 1
 
-Si usas esta opción no tendrás que actualizar nunca el payload.bin. Descarga [NX_Payload_Forwarder](https://github.com/RetroGamer74/NX_Payload_Forwarder) que yo mismo he desarrollado, utilizando el siguiente enlace [link](https://github.com/RetroGamer74/NX_Payload_Forwarder), y copialo en alguna carpeta de tu PC. Este payload no requiere de actualizaciones porque cuando lo ejecutes lo único que hace es cargar el payload que se encuentre en la microSD. Por tanto la funcionalidad de este payload es siempre la misma y de esa manera evitas tener que copiar el payload.bin que venga actualziado en la release de RetroReloaded.
+Just for once, download the [NX_Payload_Forwarder](https://github.com/RetroGamer74/NX_Payload_Forwarder) I developed, using this [link](https://github.com/RetroGamer74/NX_Payload_Forwarder), and copy it in some place in your computer. You only need to download this payload once. You will always use the same, even RetroReloaded update its payload.
 
-Una vez descargado y copiado, usando un inyector de payloads como por ejemplo TegraRCMGui, ( ver CREDITOS ), selecciona el fichero de payload que descargaste anteriormente ( NX Payload Forwarder ). Conecta por cable USB-C tu Switch y tu PC. Entra en el modo RCM, usando tu JIG y realizando las pulsaciones de Vol+ y Power. Si no sabes cómo hacer esto puedes entrar en nuestro discord a pedir ayuda.
+Using a payload injector, like TegraRCMGui, ( see CREDITS ), points the file browser to the payload.bin file. Connect an USB-C cable to link your Switch to your PC. Enter into RCM mode. If you don't know how to do that you will have to look for further info. That's not covered here. You can get help in our discord channel. You can join us using this link:
 
-[Enlace a los foros de soporte de RetroGamer_74](https://discord.gg/cUnjkPH)
+https://discord.gg/cUnjkPH
 
-#### Usando Dongles
+#### Option 2
 
-##### Usando el dongle de SX OS ( TX )
-
-Desde la versión 2.45 se puede usar el dongle de SX OS para arrancar RetroReloaded. El procedimiento está explicado en este [vídeo.](https://www.youtube.com/watch?v=j6Px0QfkOcw)
-
-##### Usando el dongle de R4S
-
-Puedes usar el dongle R4i. Utilizando el siguiente enlace oficial a descarga flasheareamos un payload forwarder.
+You also can use R4i Dongle. Just using the official download link:
 
 https://bit.ly/2EsOeKj
 
-Conecta tu dongle R4S a tu pc utilizando el cable microUSB. Pon el dongle en modo de escritura flash pulsando dos veces seguidas el botón que tiene en una de sus esquinas. Esto hará que automaticamente aparezca la ventana del explorador de archivos de Windows, y una nueva unidad en tu sistema. Ahora lo unico que tenemos que hacer es copiar el archivo con la extensión UF2 directamente sobre la nueva unidad que nos aparece en el explorador de archivos. Podemos hacer drag & drop. Una vez que el archivo se termina de copiar el dongle se desconecta del modo flasheo, y la unidad del explorador desaparece. En ese momento tu dongle ya está programado.
+Connect your dongle to your PC using microUSB cable. Set it to Flash mode by pressing twice the button in the dongle. When you do that you will be able to browse the dongle folder. Drag & drop the new UF2 file downloaded from the link you used before. When the flash writing has finished the dongle folder will be closed automatically. You're ready to use. Use your jig, use your dongle. Enter into RCM and you will see the menu.
 
+## The Toolkit
 
-##### Puedo usar AutoRCM?
+RetroReloaded 2.XX includes RetroReloaded Toolkit in the switch homebrew folder. You will find it into the homebrew apps list.
 
-Claro. La primera vez que arranques RetroReloaded puedes arrancar la herramienta Hekate. En su menú de Tools, abajo a la derecha encontrarás la opción de AutoRCM. Una vez la habilites la consola ya no arrancará automáticamente sino que se quedará metida en el modo RCM esperando la inyección del Payload, bien desde TegraRCMGUI y tu PC, o bien al pincharle un dongle. De esta forma te ahorras el JIG. Ya no es necesario.
-
-##### Se puede desactivar AutoRCM?
-
-Por supuesto. De la misma manera que lo has activado, se desactiva. Entras en Hekate desde el menú de RetroReloaded y te diriges al menú de Tools. Abajalo a la derecha encontrarás la opción de AutoRCM que ahora la tendrás habilitada. Pulsas sobre ella y se desactiva.
-
-#### Qué son los 90DNS?
-
-90DNS es un servicio de DNS que proporciona unas direcciones IP para ser usadas como DNS Primario y DNS Secundario. Ajustadas sobre la configuración de red de tu consola, impedirán que esta se conecte a los servicios de NN. Evitando así cualquier riesgo de baneo. En las últimas releases el modo Stealth de SX OS se ha mostrado comprometido así que no es garantía. Recomendamos a todos los usuarios a añadir 90DNS además de tener el modo Stealth activado.
-
-DNS Primario: 163.172.141.219
-
-DNS Secundario: 207.246.121.77
-
-##### Puedo usar incógnito ?
-
-Sí. Para poder usar incógnito es necesario que la partición PRODINFO se encuentre en modo lectura escritura. RetroReloaded incluye un módulo que habilita esto para que la herramienta incógnito funciona. Conviene que una vez ejecutado incógnito se cambie un flag para evitar que la partición se mantenga en esas condiciones de lectura escritura, porque cualquier homebrew mal intencionado podría estropearla. [Para ello hay un vídeo explicando exactamente lo que hay que hacer.](https://youtu.be/jKfL16fgyz8?t=1124)
-
-##### Puedo usar Super Lan Play?
-
-Por supuesto RetroReloaded está preparada para ser usada con Atmosphere y Super Lan Play.
-
-##### Puedo usar Emunand?
-
-Sí. La emunand para Atmosphere tiene una integración especial en RetroReloaded. Una vez que la crees o la migres desde SX OS ( puedes usar este [vídeo](https://www.youtube.com/watch?v=WBO69FYA_UI) si quieres hacer compatible tu emunand de SX OS con Atmosphere ) aparecerá un nuevo botón en el Arranque de RetroReloaded, desde donde podrás activar o desactivar la emunand a la hora de arrancar.
-
-Si quieres hacer una integración total y previamente tenías la emunand en SX OS, y ya has seguido el vídeo del enlace anterior y la has migrado a Atmosphere, recuerda que para hacerla compatible con atmosphere debes editar el archivo que hay en la carpeta emuMMC de tu microSD, que se llama emummc.ini y encontrarás unas líneas similares a estas:
-
-[emummc]
-
-enabled=1
-
-sector=0x1a278800
-
-path=emuMMC/RAW1
-
-id=0x0000
-
-nintendo_path=emuMMC/RAW1/Nintendo
-
-Lo que tienes que hacer es cambiar las rutas path y nintendo_path a la carpeta Emutendo, que es la que originalmente utiliza SX OS en su emunand. Recuerda sólo debes hacer esto si quieres seguir usando la emunand tanto desde SX OS como desde Atmosphere. Aún así puede requerir la reinstalación de los juegos.
-
-Por tanto el archivo quedaría así:
-
-[emummc]
-
-enabled=1
-
-sector=0x1a278800
-
-path=Emutendo
-
-id=0x0000
-
-nintendo_path=Emutendo
-
-
-## RetroReloaded Toolkit. La herramienta de configuración de RetroReloaded
-
-RetroReloaded 2.XX incluye RetroReloaded Toolkit como aplicación homebrew y va preinstalada en la carpeta switch. La encontrarás en la lista de aplicaciones homebrew al entrar al Album manteniendo pulsado el botón R de la switch.
-
-Desde esta herramienta puedes habilitar y deshabilitar servicios, reiniciar en caliente rápidamente y muchas otras opciones.
+From this Toolkit you will be able to enable or disable the themes capability. Change the themes between the ones provided by RetroReloaded. Enable or disable services in background. Warm reboot.
 
 ![alt_text](https://github.com/RetroGamer74/RR_Updater-RetroReloaded-Switch-RR/blob/master/RR_Toolkit.JPG)
 
-## Gestor de Arranque
+Since RetroReloaded 2.XX, toolkit, it is already included in the full RetroReloaded CFW package. But if you want to download the toolkit only you can get it [here](https://github.com/RetroGamer74/RR_Updater-RetroReloaded-Switch-RR/releases) .
 
-Dependiendo de lo que necesites puedes utilizar los custom firmwares que están disponibles que son los siguientes.
+## Boot Manager
 
-**Primera Opción:**
+You're ready to choose your CFW. Depending on your desires, you can boot one of the three existing flavours.
+
+**First choice:**
 
 **[Atmosphere]**
 
-Actualmente 0.9.4.
+Currently 0.9.4.
 
-Firmwares soportados: 1.0.0 - 9.0.1
+Firmwares supported: 1.0.0 - 9.0.1
 
-Incluye soporte para jugar en Super Lan Play. Puedes jugar con tu Switch, incluso si está baneada, con otros jugadores en multiplayer. 
+Included support for playing to Super Lan Play. You can play with your Switch, even if it's banned, with other players, in multiplayer. 
 
-No es un servicio oficial. Lee bien las instrucciones y conéctate a nuestros foros de soporte en discord, porque hace falta cuenta para poder jugar.
-
-[![Chat on Discord](https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d446973636f72642d627269676874677265656e2e737667)](https://discordapp.com/invite/cUnjkPH)
+It's not the official online service. So join to our discord, and follow instructions or starting going here:
 
 http://lanboard.retrogamer.tech
 
 
-**Segunda opción:**
+**Second choice:**
 
 **[ReiNX]**
 
@@ -163,26 +106,24 @@ Currently 2.4
 
 Firmwares supported: 1.0.0 - 8.1.0
 
-Incluye soporte para jugar en Super Lan Play. Puedes jugar con tu Switch, incluso si está baneada, con otros jugadores en multiplayer. 
+Included support for playing to Super Lan Play. You can play with your Switch, even if it's banned, with other players, in multiplayer. 
 
-No es un servicio oficial. Lee bien las instrucciones y conéctate a nuestros foros de soporte en discord, porque hace falta cuenta para poder jugar.
-
-[![Chat on Discord](https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d446973636f72642d627269676874677265656e2e737667)](https://discordapp.com/invite/cUnjkPH)
+It's not the official online service. So join to our discord, and follow instructions or starting going here:
 
 http://lanboard.retrogamer.tech
 
 
-**Tercera opción:**
+**Third choice:**
 
 **[SX OS]**
 
-Importante: Recuerda copiar tu license.dat en la raíz de tu microSD.
+Currently: It depends on the boot.dat file you copy in the boot of your microSD. Remember to copy your license.dat file also.
 
-Firmware soportado: 1.0.0 - 9.0.1 (2.9.1 Beta)
+Firmware supported: 1.0.0 - 9.0.1
 
-Puedes jugar en Super Lan Play siempre que el servicio Lan Play del menú de opciones esté habilitado en SX OS y haya sido actualizado por los desarrolladores de SX OS.
+You can play in Super Lan Play service, as the other CFW. KIP patch was also included in SX OS.
 
-## CREDITOS
+## CREDITS
 **Atmosphere**
 
 https://github.com/Atmosphere-NX/Atmosphere

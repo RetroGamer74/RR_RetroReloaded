@@ -91,7 +91,8 @@ DNS Secundario: 207.246.121.77
 
 ### Puedo usar incógnito ?
 
-Sí. Para poder usar incógnito es necesario que la partición PRODINFO se encuentre en modo lectura escritura. RetroReloaded incluye un módulo que habilita esto para que la herramienta incógnito funciona. Conviene que una vez ejecutado incógnito se cambie un flag para evitar que la partición se mantenga en esas condiciones de lectura escritura, porque cualquier homebrew mal intencionado podría estropearla. [Para ello hay un vídeo explicando exactamente lo que hay que hacer.](https://youtu.be/jKfL16fgyz8?t=1124)
+Sí. Para poder usar incógnito es necesario que la partición PRODINFO se encuentre en modo lectura escritura. RetroReloaded incluye un módulo que habilita esto para que la herramienta incógnito funciona. Desde la herramienta RetroReloaded Toolkit que encontrarás en el homebrew preinstalada, selecciona la opción Prodinfo y asegúrate de ponerlo en modo lectura escritura (RW). Después ya puedes ejecutar incógnito. Cuando acabes de hacer los cambios con incógnito, deberías volver a poner Prodinfo en modo sólo lectura (RO).
+
 
 ### Puedo usar Super Lan Play?
 

@@ -4,7 +4,7 @@
 Muy Importante: Para nuevos usuarios, o usuarios actualizando a RetroReloaded 2.XX por primera vez, eliminar la carpeta de atmosphere y ReiNX en tu microSD si existen. Esto proporcionará un estado limpio antes de instalarlo.
 Puedes ver los cambios de cada versión en las [Releases.](https://github.com/RetroGamer74/RR_RetroReloaded/releases)
 
-### Important Changes
+### Cambios Importantes
 * Siempre que descargues una versión de RetroReloaded, puede ser que el payload.bin que extraerás del paquete y quedará almacenado en tu microSD en la carpeta raíz haya sido actualizado. Si usas TegraRCMGUI para arrancar desde tu PC debes copiar este archivo en tu PC. No lo elimines de la SD. Sólo copialo, para luego lanzarlo desde TegraRCMGUI.
 
 Tinfoil ha sido eliminado.
@@ -68,15 +68,15 @@ https://bit.ly/2EsOeKj
 Conecta tu dongle R4S a tu pc utilizando el cable microUSB. Pon el dongle en modo de escritura flash pulsando dos veces seguidas el botón que tiene en una de sus esquinas. Esto hará que automaticamente aparezca la ventana del explorador de archivos de Windows, y una nueva unidad en tu sistema. Ahora lo unico que tenemos que hacer es copiar el archivo con la extensión UF2 directamente sobre la nueva unidad que nos aparece en el explorador de archivos. Podemos hacer drag & drop. Una vez que el archivo se termina de copiar el dongle se desconecta del modo flasheo, y la unidad del explorador desaparece. En ese momento tu dongle ya está programado.
 
 
-##### Puedo usar AutoRCM?
+### Puedo usar AutoRCM?
 
 Claro. La primera vez que arranques RetroReloaded puedes arrancar la herramienta Hekate. En su menú de Tools, abajo a la derecha encontrarás la opción de AutoRCM. Una vez la habilites la consola ya no arrancará automáticamente sino que se quedará metida en el modo RCM esperando la inyección del Payload, bien desde TegraRCMGUI y tu PC, o bien al pincharle un dongle. De esta forma te ahorras el JIG. Ya no es necesario.
 
-##### Se puede desactivar AutoRCM?
+### Se puede desactivar AutoRCM?
 
 Por supuesto. De la misma manera que lo has activado, se desactiva. Entras en Hekate desde el menú de RetroReloaded y te diriges al menú de Tools. Abajalo a la derecha encontrarás la opción de AutoRCM que ahora la tendrás habilitada. Pulsas sobre ella y se desactiva.
 
-#### Qué son los 90DNS?
+### Qué son los 90DNS?
 
 90DNS es un servicio de DNS que proporciona unas direcciones IP para ser usadas como DNS Primario y DNS Secundario. Ajustadas sobre la configuración de red de tu consola, impedirán que esta se conecte a los servicios de NN. Evitando así cualquier riesgo de baneo. En las últimas releases el modo Stealth de SX OS se ha mostrado comprometido así que no es garantía. Recomendamos a todos los usuarios a añadir 90DNS además de tener el modo Stealth activado.
 
@@ -84,15 +84,15 @@ DNS Primario: 163.172.141.219
 
 DNS Secundario: 207.246.121.77
 
-##### Puedo usar incógnito ?
+### Puedo usar incógnito ?
 
 Sí. Para poder usar incógnito es necesario que la partición PRODINFO se encuentre en modo lectura escritura. RetroReloaded incluye un módulo que habilita esto para que la herramienta incógnito funciona. Conviene que una vez ejecutado incógnito se cambie un flag para evitar que la partición se mantenga en esas condiciones de lectura escritura, porque cualquier homebrew mal intencionado podría estropearla. [Para ello hay un vídeo explicando exactamente lo que hay que hacer.](https://youtu.be/jKfL16fgyz8?t=1124)
 
-##### Puedo usar Super Lan Play?
+### Puedo usar Super Lan Play?
 
 Por supuesto RetroReloaded está preparada para ser usada con Atmosphere y Super Lan Play.
 
-##### Puedo usar Emunand?
+### Puedo usar Emunand?
 
 Sí. La emunand para Atmosphere tiene una integración especial en RetroReloaded. Una vez que la crees o la migres desde SX OS ( puedes usar este [vídeo](https://www.youtube.com/watch?v=WBO69FYA_UI) si quieres hacer compatible tu emunand de SX OS con Atmosphere ) aparecerá un nuevo botón en el Arranque de RetroReloaded, desde donde podrás activar o desactivar la emunand a la hora de arrancar.
 

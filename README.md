@@ -67,6 +67,11 @@ https://bit.ly/2EsOeKj
 
 Conecta tu dongle R4S a tu pc utilizando el cable microUSB. Pon el dongle en modo de escritura flash pulsando dos veces seguidas el botón que tiene en una de sus esquinas. Esto hará que automaticamente aparezca la ventana del explorador de archivos de Windows, y una nueva unidad en tu sistema. Ahora lo unico que tenemos que hacer es copiar el archivo con la extensión UF2 directamente sobre la nueva unidad que nos aparece en el explorador de archivos. Podemos hacer drag & drop. Una vez que el archivo se termina de copiar el dongle se desconecta del modo flasheo, y la unidad del explorador desaparece. En ese momento tu dongle ya está programado.
 
+### Puedo usar RetroReloaded para hackear mi Mariko?
+
+Sí. RetroReloaded está preparado para que puedas arrancar tu Mariko con custom firmware.
+
+Sigue este [vídeo](https://youtu.be/chbpxLs0Akc?t=328)
 
 ### Puedo usar AutoRCM?
 

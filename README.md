@@ -1,4 +1,4 @@
-[English Version](https://github.com/RetroGamer74/RR_RetroReloaded/blob/master/README_EN.md)
+[Click here for English Version](https://github.com/RetroGamer74/RR_RetroReloaded/blob/master/README_EN.md)
 # RR (RetroReloaded - Gestor de Arranque)
 
 Muy Importante: Para nuevos usuarios, o usuarios actualizando a RetroReloaded 2.XX por primera vez, eliminar la carpeta de atmosphere y ReiNX en tu microSD si existen. Esto proporcionará un estado limpio antes de instalarlo.

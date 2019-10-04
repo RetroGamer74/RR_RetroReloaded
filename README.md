@@ -19,7 +19,7 @@ Es un Boot Manager para Switch que permite arrancar de una forma preconfigurada 
 
 ( Ver los  CRÉDITOS para más información )
 
-![alt text](rr_boot_v2.jpg)
+![alt text](rr_boot_v3.jpg)
 
 ![alt text](BackToRR.png)
 

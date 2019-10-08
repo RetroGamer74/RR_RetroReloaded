@@ -21,6 +21,8 @@ Es un Boot Manager para Switch que permite arrancar de una forma preconfigurada 
 
 ![alt text](rr_boot_v3.jpg)
 
+![alt text](rr_settings.jpg)
+
 ![alt text](BackToRR.png)
 
 Soporte touch.

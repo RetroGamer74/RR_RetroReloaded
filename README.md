@@ -59,7 +59,7 @@ Una vez descargado y copiado, usando un inyector de payloads como por ejemplo Te
 
 ##### Usando el dongle de SX OS ( TX )
 
-Desde la versión 2.45 se puede usar el dongle de SX OS para arrancar RetroReloaded. El procedimiento está explicado en este [vídeo.](https://www.youtube.com/watch?v=j6Px0QfkOcw)
+Desde la versión 3.50 se puede usar el dongle de SX OS para arrancar RetroReloaded. Pincha el Dongle y arranca como sueles hacer. En vez de arrancar SX OS arrancará el menú de RetroReloaded, a no ser que hayas activado en RetroReloaded la opción de Autoboot, en cuyo caso deberás mantener pulsado el botón Vol - para que aparezca el menú cuando se esté reiniciando.
 
 ##### Usando el dongle de R4S
 

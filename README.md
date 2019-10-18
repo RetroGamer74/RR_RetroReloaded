@@ -21,7 +21,9 @@ Es un Boot Manager para Switch que permite arrancar de una forma preconfigurada 
 
 ![alt text](rr_boot_v3.jpg)
 
-![alt text](rr_settings.jpg)
+![alt text](Settings-RR.jpg)
+
+![alt text](Services-RR.jpg)
 
 ![alt text](BackToRR.png)
 
@@ -138,14 +140,6 @@ id=0x0000
 
 nintendo_path=Emutendo
 
-
-## RetroReloaded Toolkit. La herramienta de configuración de RetroReloaded
-
-RetroReloaded 2.XX incluye RetroReloaded Toolkit como aplicación homebrew y va preinstalada en la carpeta switch. La encontrarás en la lista de aplicaciones homebrew al entrar al Album manteniendo pulsado el botón R de la switch.
-
-Desde esta herramienta puedes habilitar y deshabilitar servicios, reiniciar en caliente rápidamente y muchas otras opciones.
-
-![alt_text](https://github.com/RetroGamer74/RR_Updater-RetroReloaded-Switch-RR/blob/master/RR_Toolkit.JPG)
 
 ## Gestor de Arranque
 

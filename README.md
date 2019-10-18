@@ -23,7 +23,7 @@ Es un Boot Manager para Switch que permite arrancar de una forma preconfigurada 
 
 ![alt text](Settings-RR.jpg)
 
-![alt text](Services-RR.jpg)
+![alt text](Service-RR.jpg)
 
 ![alt text](BackToRR.png)
 

@@ -71,6 +71,22 @@ https://bit.ly/2EsOeKj
 
 Conecta tu dongle R4S a tu pc utilizando el cable microUSB. Pon el dongle en modo de escritura flash pulsando dos veces seguidas el botón que tiene en una de sus esquinas. Esto hará que automaticamente aparezca la ventana del explorador de archivos de Windows, y una nueva unidad en tu sistema. Ahora lo unico que tenemos que hacer es copiar el archivo con la extensión UF2 directamente sobre la nueva unidad que nos aparece en el explorador de archivos. Podemos hacer drag & drop. Una vez que el archivo se termina de copiar el dongle se desconecta del modo flasheo, y la unidad del explorador desaparece. En ese momento tu dongle ya está programado.
 
+### Qué es el Overlay?
+
+El overlay es técnicamente todas las capas que aparecen superpuestas a nivel informativo en la switch. Desde las notificaciones, el home button menú, y el menú de shutdown, son ejemplos de esto. Si decides sobreescribir el overlay y poner uno tuyo propio debes implementar todo para que al usuario no le falta ninguna funcionalidad.
+
+RetroReloaded ha implementado un Overlay con la finalidad de hacer un menú de apagado que permita a sxos y a reinx ser reiniciados al payload de RetroReloaded para comodidad del usuario.
+
+### Qué es el AutoUpdate?
+
+RetroReloaded ha implementado una funcionalidad, aprovechando las posibilidades informativas del Overlay, para poner en background a descarga una actualización de RetroReloaded si es que realmente está disponible.
+
+Recibirás una notificación al inicio de la descarga, y otra cuando el proceso haya terminado.
+
+A partir de ahí ya puedes reiniciar. Un botón en la parte superior derecha te indicará que hay una nueva actualización disponible. Púlsalo y sigue instrucciones. No hay perdida.
+
+[Aquí puedes ver un vídeo del proceso.](https://youtu.be/gb_4ha3U1V8)
+
 ### Puedo usar RetroReloaded para hackear mi Mariko?
 
 Sí. RetroReloaded está preparado para que puedas arrancar tu Mariko con custom firmware.
@@ -95,12 +111,7 @@ DNS Secundario: 207.246.121.77
 
 ### Puedo usar incógnito ?
 
-Sí. Para poder usar incógnito es necesario que la partición PRODINFO se encuentre en modo lectura escritura. RetroReloaded incluye un módulo que habilita esto para que la herramienta incógnito funciona. Desde la herramienta RetroReloaded Toolkit que encontrarás en el homebrew preinstalada, selecciona la opción Prodinfo y asegúrate de ponerlo en modo lectura escritura (RW). Después ya puedes ejecutar incógnito. Cuando acabes de hacer los cambios con incógnito, deberías volver a poner Prodinfo en modo sólo lectura (RO).
-
-![alt text](RRToolkit1.JPG)
-
-![alt text](RRToolkit2.JPG)
-
+Sí. Incógnito está ahora accesible desde el arranque de RetroReloaded, para no necesitar nunca más módulos dependientes del firmware. Pulsa el botón de Incógnito en la pantalla principal de arranque, haz el backup y actívalo. Eso es todo.
 
 ### Puedo usar Super Lan Play?
 

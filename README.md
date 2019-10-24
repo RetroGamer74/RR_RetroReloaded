@@ -25,7 +25,7 @@ Es un Boot Manager para Switch que permite arrancar de una forma preconfigurada 
 
 ![alt text](Service-RR.jpg)
 
-![alt text](Overlay.jpg)4
+![alt text](Overlay.jpg)
 
 Overlay customizado.
 

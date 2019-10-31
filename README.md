@@ -85,9 +85,10 @@ RetroReloaded ha implementado un Overlay con la finalidad de hacer un menú de a
 
 RetroReloaded ha implementado una funcionalidad, aprovechando las posibilidades informativas del Overlay, para poner en background a descarga una actualización de RetroReloaded si es que realmente está disponible.
 
-Recibirás una notificación al inicio de la descarga, y otra cuando el proceso haya terminado.
+El Autoupdate ocurre en dos partes. La primera ocurre mientras estás jugando a la switch por ejemplo.
+Recibirás una notificación al inicio de la descarga, y otra cuando el proceso haya terminado. Una vez recibida la primera notificación si haces emergente el menu home verás una barra de progreso, primero verde, y luego roja. Cuando el proceso termine te llegará la notificación de proceso finalizado. En este momento el update está listo para ser instalado, pero esto ocurrirá al reiniciar tu switch, para evitar que nada pueda corromperse.
 
-A partir de ahí ya puedes reiniciar. Un botón en la parte superior derecha te indicará que hay una nueva actualización disponible. Púlsalo y sigue instrucciones. No hay perdida.
+Cuando arranques y entres en el menú de inicio de RetroReloaded verás un botón en la parte superior derecha que te indicará que hay una nueva actualización disponible. Púlsalo y sigue instrucciones. No hay perdida.
 
 [Aquí puedes ver un vídeo del proceso.](https://youtu.be/gb_4ha3U1V8)
 

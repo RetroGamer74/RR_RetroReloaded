@@ -32,7 +32,7 @@ Custom Overlay
 
 
 
-[![Chat on Discord](https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742e72676d7676d7676d7676d7676e7d7c7c7c6d7c7c7c6d7c7c6d7c7c6d7c7c6c7c6d7c7c7c6d7c6d7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c6d7c7c6d7c6d7aaaaaaaaaaaaaaaaaaaaaaz
+[![Chat on Discord](https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d446973636f72642d627269676874677265656e2e737667)](https://discordapp.com/invite/cUnjkPH)
 
 ## Installation
 
@@ -171,7 +171,7 @@ Includes support to play in Super Lan Play. You can play with your Switch, even 
 
 It is not an official service. Read the instructions well and connect to our support forums at discord, because you need an account to play.
 
-[![Chat on Discord] (https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742e72676d7676d7676d7676d7676e7d7c7c7c6d7c7c7c6d7c7c6d7c7c6d7c7c6c7c6d7c7c7c6d7c6d7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c6d7c7c6d7c6d7aaaaaaaaaaaaaaaaaaaaaaz
+[![Chat on Discord](https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d446973636f72642d627269676874677265656e2e737667)](https://discordapp.com/invite/cUnjkPH)
 
 http://lanboard.retrogamer.tech
 
@@ -188,7 +188,7 @@ Includes support to play in Super Lan Play. You can play with your Switch, even 
 
 It is not an official service. Read the instructions well and connect to our support forums at discord, because you need an account to play.
 
-[![Chat on Discord] (https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742e72676d7676d7676d7676d7676e7d7c7c7c6d7c7c7c6d7c7c6d7c7c6d7c7c6c7c6d7c7c7c6d7c6d7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c6d7c7c6d7c6d7aaaaaaaaaaaaaaaaaaaaaaz
+[![Chat on Discord](https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d446973636f72642d627269676874677265656e2e737667)](https://discordapp.com/invite/cUnjkPH)
 
 http://lanboard.retrogamer.tech
 

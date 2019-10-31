@@ -55,7 +55,7 @@ To start RetroReloaded you can use the following options.
 
 #### Using a USB-C cable and a PC
 
-If you use this option you will never have to update the payload.bin. Download [NX_Payload_Forwarder](https://github.com/RetroGamer74/NX_Payload_Forwarder) that I myself developed, using the following link [link](https://github.com/RetroGamer74/NX_Payload_Forwarder), and copy it to some folder your PC This payload does not require updates because when you run it all it does is load the payload that is in the microSD. Therefore the functionality of this payload is always the same and that way you avoid having to copy the payload.bin that comes updated in the RetroReloaded release.
+If you use this option you will never have to update the payload.bin. Download [NX_Payload_Forwarder](https://github.com/RetroGamer74/NX_Payload_Forwarder) that I myself developed, using the following [link](https://github.com/RetroGamer74/NX_Payload_Forwarder), and copy it to some folder your PC This payload does not require updates because when you run it all it does is load the payload that is in the microSD. Therefore the functionality of this payload is always the same and that way you avoid having to copy the payload.bin that comes updated in the RetroReloaded release.
 
 Once downloaded and copied, using a payload injector such as TegraRCMGui, (see CREDITS), select the payload file you previously downloaded (NX Payload Forwarder). Connect your Switch and your PC via USB-C cable. Enter RCM mode, using your JIG and pressing Vol + and Power. If you do not know how to do this you can enter our discord to ask for help.
 

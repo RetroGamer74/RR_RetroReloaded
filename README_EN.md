@@ -28,7 +28,7 @@ It is a Boot Manager for Switch that allows custom firmwares such as Atmosphere,
 
 Custom Overlay
 
-![alt text](sample-update.jpg)
+![alt text](muestra-update.jpg)
 
 
 

@@ -65,7 +65,7 @@ Once downloaded and copied, using a payload injector such as TegraRCMGui, (see C
 
 ##### Using the SX OS (TX) dongle
 
-Since version 3.50, the SX OS dongle can be used to start RetroReloaded. Click on the Dongle and start as you usually do. Instead of starting SX OS, the RetroReloaded menu will start, unless you have activated the Autoboot option in RetroReloaded, in which case you will have to press and hold the Vol button - so that the menu appears when it is restarting.
+Since version 3.50, the SX OS dongle can be used to start RetroReloaded. Plug-in your SX OS Dongle and start as you usually do. Instead of starting SX OS, the RetroReloaded menu will start, unless you have activated the Autoboot option in RetroReloaded. In that case you will have to press and hold the (Vol-) button so that the menu appears when it is restarting.
 
 ##### Using the R4S dongle
 
@@ -79,15 +79,15 @@ Connect your R4S dongle to your pc using the microUSB cable. Put the dongle in f
 
 The overlay is technically all layers that appear superimposed on an informational level on the switch. From the notifications, the home button menu, and the shutdown menu, are examples of this. If you decide to overwrite the overlay and put your own you must implement everything so that the user does not lack any functionality.
 
-RetroReloaded has implemented an Overlay in order to make a shutdown menu that allows sxos and reinx to be reset to the RetroReloaded payload for user convenience.
+RetroReloaded has implemented an Overlay in order to make a shutdown menu that allows sxos and reinx to be able to reboot to the RetroReloaded payload for user convenience. Of course, home button menu, and notifications, are also implemented. So you shouldn't miss anything.
 
 ### What is AutoUpdate?
 
 RetroReloaded has implemented a functionality, taking advantage of the informational possibilities of Overlay, to put in background to download an update of RetroReloaded if it really is available.
 
-You will receive a notification at the beginning of the download, and another when the process is finished.
+You will receive a notification at the beginning of the download, and another when the process is finished. This will happen while you're playing in your switch without any interference.
 
-From there you can restart. A button in the upper right will indicate that there is a new update available. Press it and follow instructions. There's no way to get lost.
+From there you can restart. Once in the boot menu of RetroReloaded, you will see a button in the upper right indicating that there is a new update available. Press it and follow instructions. There's no way to get lost.
 
 [Here you can watch a video of the process.](https://youtu.be/gb_4ha3U1V8)
 

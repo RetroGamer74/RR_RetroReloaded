@@ -1,7 +1,7 @@
 # RR (RetroReloaded - Boot Manager)
 
 Very Important: For new users, or users updating to RetroReloaded 2.XX for the first time, delete the atmosphere and ReiNX folder on your microSD if they exist. This will provide a clean state before installing.
-You can see the changes of each version in the [Releases.] (Https://github.com/RetroGamer74/RR_RetroReloaded/releases)
+You can see the changes of each version in the [Releases.](Https://github.com/RetroGamer74/RR_RetroReloaded/releases)
 
 ### Important changes
 * Whenever you download a version of RetroReloaded, it may be that the payload.bin that you will extract from the package and will be stored in your microSD in the root folder has been updated. If you use TegraRCMGUI to boot from your PC you must copy this file to your PC. Do not delete it from the SD. Just copy it, then launch it from TegraRCMGUI.
@@ -42,7 +42,7 @@ Autoupdate feature. See below.
 You have two options. Use the Windows Installer, or download the zip in the [Releases] section (https://github.com/RetroGamer74/RR_RetroReloaded/releases) and extract it yourself on your microSD.
 
 #### Option 1
-Download the [Windows RetroReloaded Installer] (https://github.com/RetroGamer74/RR_RetroReloaded-RetroReloaded-Switch-RR/blob/master/RR_Installer.rar) to prepare your microSD automatically.
+Download the [Windows RetroReloaded Installer](https://github.com/RetroGamer74/RR_RetroReloaded-RetroReloaded-Switch-RR/blob/master/RR_Installer.rar) to prepare your microSD automatically.
 
 ![alt text](RR_Installer.jpg)
 
@@ -55,7 +55,7 @@ To start RetroReloaded you can use the following options.
 
 #### Using a USB-C cable and a PC
 
-If you use this option you will never have to update the payload.bin. Download [NX_Payload_Forwarder] (https://github.com/RetroGamer74/NX_Payload_Forwarder) that I myself developed, using the following link [link](https://github.com/RetroGamer74/NX_Payload_Forwarder), and copy it to some folder your PC This payload does not require updates because when you run it all it does is load the payload that is in the microSD. Therefore the functionality of this payload is always the same and that way you avoid having to copy the payload.bin that comes updated in the RetroReloaded release.
+If you use this option you will never have to update the payload.bin. Download [NX_Payload_Forwarder](https://github.com/RetroGamer74/NX_Payload_Forwarder) that I myself developed, using the following link [link](https://github.com/RetroGamer74/NX_Payload_Forwarder), and copy it to some folder your PC This payload does not require updates because when you run it all it does is load the payload that is in the microSD. Therefore the functionality of this payload is always the same and that way you avoid having to copy the payload.bin that comes updated in the RetroReloaded release.
 
 Once downloaded and copied, using a payload injector such as TegraRCMGui, (see CREDITS), select the payload file you previously downloaded (NX Payload Forwarder). Connect your Switch and your PC via USB-C cable. Enter RCM mode, using your JIG and pressing Vol + and Power. If you do not know how to do this you can enter our discord to ask for help.
 
@@ -89,7 +89,7 @@ You will receive a notification at the beginning of the download, and another wh
 
 From there you can restart. A button in the upper right will indicate that there is a new update available. Press it and follow instructions. There's no way to get lost.
 
-[Here you can watch a video of the process.](Https://youtu.be/gb_4ha3U1V8)
+[Here you can watch a video of the process.](https://youtu.be/gb_4ha3U1V8)
 
 ### Can I use RetroReloaded to hack my Mariko?
 

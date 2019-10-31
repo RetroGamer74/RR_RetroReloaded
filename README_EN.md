@@ -18,21 +18,21 @@ It is a Boot Manager for Switch that allows custom firmwares such as Atmosphere,
 
 (See CREDITS for more information)
 
-! [alt text] (rr_boot_v3.jpg)
+![alt text](rr_boot_v3.jpg)
 
-! [alt text] (Settings-RR.jpg)
+![alt text](Settings-RR.jpg)
 
-! [alt text] (Service-RR.jpg)
+![alt text](Service-RR.jpg)
 
-! [alt text] (Overlay.jpg)
+![alt text](Overlay.jpg)
 
 Custom Overlay
 
-! [alt text] (sample-update.jpg)
+![alt text](sample-update.jpg)
 
 
 
-[! [Chat on Discord] (https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742e72676d7676d7676d7676d7676e7d7c7c7c6d7c7c7c6d7c7c6d7c7c6d7c7c6c7c6d7c7c7c6d7c6d7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c6d7c7c6d7c6d7aaaaaaaaaaaaaaaaaaaaaaz
+[![Chat on Discord] (https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742e72676d7676d7676d7676d7676e7d7c7c7c6d7c7c7c6d7c7c6d7c7c6d7c7c6c7c6d7c7c7c6d7c6d7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c6d7c7c6d7c6d7aaaaaaaaaaaaaaaaaaaaaaz
 
 ## Installation
 
@@ -43,7 +43,7 @@ You have two options. Use the Windows Installer, or download the zip in the [Rel
 #### Option 1
 Download the [Windows RetroReloaded Installer] (https://github.com/RetroGamer74/RR_RetroReloaded-RetroReloaded-Switch-RR/blob/master/RR_Installer.rar) to prepare your microSD automatically.
 
-! [alt text] (RR_Installer.jpg)
+![alt text](RR_Installer.jpg)
 
 #### Option 2
 Download the latest available release (https://github.com/RetroGamer74/RR_RetroReloaded/releases), extract it by overwriting existing files on your microSD. It does not overwrite configuration files of your applications or delete data.
@@ -54,11 +54,11 @@ To start RetroReloaded you can use the following options.
 
 #### Using a USB-C cable and a PC
 
-If you use this option you will never have to update the payload.bin. Download [NX_Payload_Forwarder] (https://github.com/RetroGamer74/NX_Payload_Forwarder) that I myself developed, using the following link [link] (https://github.com/RetroGamer74/NX_Payload_Forwarder), and copy it to some folder your PC This payload does not require updates because when you run it all it does is load the payload that is in the microSD. Therefore the functionality of this payload is always the same and that way you avoid having to copy the payload.bin that comes updated in the RetroReloaded release.
+If you use this option you will never have to update the payload.bin. Download [NX_Payload_Forwarder] (https://github.com/RetroGamer74/NX_Payload_Forwarder) that I myself developed, using the following link [link](https://github.com/RetroGamer74/NX_Payload_Forwarder), and copy it to some folder your PC This payload does not require updates because when you run it all it does is load the payload that is in the microSD. Therefore the functionality of this payload is always the same and that way you avoid having to copy the payload.bin that comes updated in the RetroReloaded release.
 
 Once downloaded and copied, using a payload injector such as TegraRCMGui, (see CREDITS), select the payload file you previously downloaded (NX Payload Forwarder). Connect your Switch and your PC via USB-C cable. Enter RCM mode, using your JIG and pressing Vol + and Power. If you do not know how to do this you can enter our discord to ask for help.
 
-[Link to RetroGamer_74 support forums] (https://discord.gg/cUnjkPH)
+[Link to RetroGamer_74 support forums](https://discord.gg/cUnjkPH)
 
 #### Using Dongles
 
@@ -88,13 +88,13 @@ You will receive a notification at the beginning of the download, and another wh
 
 From there you can restart. A button in the upper right will indicate that there is a new update available. Press it and follow instructions. There's no way to get lost.
 
-[Here you can watch a video of the process.] (Https://youtu.be/gb_4ha3U1V8)
+[Here you can watch a video of the process.](Https://youtu.be/gb_4ha3U1V8)
 
 ### Can I use RetroReloaded to hack my Mariko?
 
 Yes. RetroReloaded is ready for you to boot your Mariko with custom firmware.
 
-Follow this [video] (https://youtu.be/chbpxLs0Akc?t=328)
+Follow this [video](https://youtu.be/chbpxLs0Akc?t=328)
 
 ### Can I use AutoRCM?
 
@@ -122,7 +122,7 @@ Of course RetroReloaded is ready to be used with Atmosphere and Super Lan Play.
 
 ### Can I use Emunand?
 
-Yes. The emunand for Atmosphere has a special integration in RetroReloaded. Once you create or migrate it from SX OS (you can use this [video] (https://www.youtube.com/watch?v=WBO69FYA_UI) if you want to make your SX OS emunand compatible with Atmosphere) a new one will appear StartReloaded Start button, from where you can activate or deactivate the emunand at boot time.
+Yes. The emunand for Atmosphere has a special integration in RetroReloaded. Once you create or migrate it from SX OS (you can use this [video](https://www.youtube.com/watch?v=WBO69FYA_UI) if you want to make your SX OS emunand compatible with Atmosphere) a new one will appear StartReloaded Start button, from where you can activate or deactivate the emunand at boot time.
 
 If you want to make a full integration and previously had the emunand in SX OS, and you have already followed the video of the previous link and have migrated it to Atmosphere, remember that to make it compatible with atmosphere you must edit the file in the emuMMC folder of your microSD, which is called emummc.ini and you will find some lines similar to these:
 
@@ -171,7 +171,7 @@ Includes support to play in Super Lan Play. You can play with your Switch, even 
 
 It is not an official service. Read the instructions well and connect to our support forums at discord, because you need an account to play.
 
-[! [Chat on Discord] (https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742e72676d7676d7676d7676d7676e7d7c7c7c6d7c7c7c6d7c7c6d7c7c6d7c7c6c7c6d7c7c7c6d7c6d7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c6d7c7c6d7c6d7aaaaaaaaaaaaaaaaaaaaaaz
+[![Chat on Discord] (https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742e72676d7676d7676d7676d7676e7d7c7c7c6d7c7c7c6d7c7c6d7c7c6d7c7c6c7c6d7c7c7c6d7c6d7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c6d7c7c6d7c6d7aaaaaaaaaaaaaaaaaaaaaaz
 
 http://lanboard.retrogamer.tech
 
@@ -188,7 +188,7 @@ Includes support to play in Super Lan Play. You can play with your Switch, even 
 
 It is not an official service. Read the instructions well and connect to our support forums at discord, because you need an account to play.
 
-[! [Chat on Discord] (https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742e72676d7676d7676d7676d7676e7d7c7c7c6d7c7c7c6d7c7c6d7c7c6d7c7c6c7c6d7c7c7c6d7c6d7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c6d7c7c6d7c6d7aaaaaaaaaaaaaaaaaaaaaaz
+[![Chat on Discord] (https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742e72676d7676d7676d7676d7676e7d7c7c7c6d7c7c7c6d7c7c6d7c7c6d7c7c6c7c6d7c7c7c6d7c6d7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c7c6d7c6d7c7c6d7c6d7aaaaaaaaaaaaaaaaaaaaaaz
 
 http://lanboard.retrogamer.tech
 

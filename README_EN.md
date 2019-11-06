@@ -22,7 +22,7 @@ It is a Boot Manager for Switch that allows custom firmwares such as Atmosphere,
 
 ![alt text](Settings-RR.jpg)
 
-![alt text](Service-RR.jpg)
+![alt text](Services-RR.jpg)
 
 ![alt text](Overlay.jpg)
 

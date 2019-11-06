@@ -114,6 +114,10 @@ DNS Primario: 163.172.141.219
 
 DNS Secundario: 207.246.121.77
 
+### Puedo usar mis propios gamepdas de Xbox 360, Xbox One, PS3, PS4?
+
+Sí. Hay un módulo integrado en RetroReloaded que aún está en desarrollo. Puedes habilitarlo en el menú de servicios. Requiere de momento tener conectada la switch al Dock, y conectar el gamepad por USB al dock. Está en desarrollo el soporte bluetooth.
+
 ### Puedo usar incógnito ?
 
 Sí. Incógnito está ahora accesible desde el arranque de RetroReloaded, para no necesitar nunca más módulos dependientes del firmware. Pulsa el botón de Incógnito en la pantalla principal de arranque, haz el backup y actívalo. Eso es todo.

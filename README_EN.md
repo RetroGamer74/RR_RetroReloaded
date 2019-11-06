@@ -113,6 +113,10 @@ Primary DNS: 163,172,141,219
 
 Secondary DNS: 207.246.121.77
 
+### Can I use my own Xbox 360, Xbox One, PS3, PS4 gamepads?
+
+Yes. There is a new sysmodule included in RetroReloaded (sys-con). You can enable it thru RetroReloaded Boot Manager Services menu. By the way it requirea connect the switch to the dock, and connect the gamepad thru USB to the dock. Bluetooth support is still in development.
+
 ### Can I use incognito?
 
 Yes. Incognito is now accessible from the start of RetroReloaded, so you never need any more firmware-dependent modules. Press the Incognito button on the main boot screen, make the backup and activate it. That's it.
@@ -231,3 +235,7 @@ https://github.com/spacemeowx2/ldn_mitm/releases
 ** Hekate CTCaer **
 
 https://github.com/CTCaer/hekate
+
+** Sys - Con **
+
+https://github.com/cathery/sys-con/

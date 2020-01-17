@@ -4,11 +4,9 @@ Very important: For all those users want to use RR Pro, remove all your folders 
 You can see the changes of each version in the [Releases.](Https://github.com/RetroGamer74/RR_RetroReloaded/releases)
 
 ### Important changes
-* Whenever you download a version of RetroReloaded, it may be that the payload.bin that you will extract from the package and will be stored in your microSD in the root folder has been updated. If you use TegraRCMGUI to boot from your PC you must copy this file to your PC. Do not delete it from the SD. Just copy it, then launch it from TegraRCMGUI.
+RR Pro integrates a modular update system. This means that you will no longer have to manually download more updates. Using the overlay, you can press the Home button of the switch and keeping it pressed for 3 seconds a menu will pop up, where there will be a button for you to update.
 
-Tinfoil has been removed.
-
-You can remove the Tinfoil and Mercury folders from your microSD folder if you still have them. They will no longer be used in the current context. Tinfoil now requires an ad-hoc version of Atmosphere prepared for this tool and is not acceptable.
+Updates are now faster since RetroReloaded has been sliced, so that downloads are independent. If the boot payload is updated, it will not be necessary to download the entire package as before, and this is the case in general with everything.
 
 When you use the Hekate tool from RetroReloaded there is a button that puts Back RR that allows you to return to the RetroReloaded boot manager whenever you want.
 

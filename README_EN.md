@@ -1,6 +1,6 @@
 # RR (RetroReloaded - Boot Manager)
 
-Very Important: For new users, or users updating to RetroReloaded 2.XX for the first time, delete the atmosphere and ReiNX folder on your microSD if they exist. This will provide a clean state before installing.
+Very important: For all those users want to use RR Pro, remove all your folders in microSD except for the next ones: Nintend*,Emummc, Emutendo, and license.dat if you own SX OS. I suggest to do a backup of your switch folder before to delete it. Maybe you miss something later.
 You can see the changes of each version in the [Releases.](Https://github.com/RetroGamer74/RR_RetroReloaded/releases)
 
 ### Important changes

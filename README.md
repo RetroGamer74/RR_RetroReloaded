@@ -1,15 +1,14 @@
 [Click here for English Version](https://github.com/RetroGamer74/RR_RetroReloaded/blob/master/README_EN.md)
-# RR (RetroReloaded - Gestor de Arranque)
+# RR Pro (RetroReloaded Pro - Gestor de Arranque)  - BETA
 
-Muy Importante: Para nuevos usuarios, o usuarios actualizando a RetroReloaded 2.XX por primera vez, eliminar la carpeta de atmosphere y ReiNX en tu microSD si existen. Esto proporcionará un estado limpio antes de instalarlo.
+Muy Importante: Para todos los usuarios que quieran migrar a RR Pro, por favor eliminar las carpetas de la microSD, exceptuando: Nintend*,Emummc, Emutendo, y la license.dat de SX OS si es que la tienes. Se recomienda hacer un backup de tu carpeta Switch antes de eliminarla por si acaso tienes que recuperar alguna cosa.
+
 Puedes ver los cambios de cada versión en las [Releases.](https://github.com/RetroGamer74/RR_RetroReloaded/releases)
 
 ### Cambios Importantes
-* Siempre que descargues una versión de RetroReloaded, puede ser que el payload.bin que extraerás del paquete y quedará almacenado en tu microSD en la carpeta raíz haya sido actualizado. Si usas TegraRCMGUI para arrancar desde tu PC debes copiar este archivo en tu PC. No lo elimines de la SD. Sólo copialo, para luego lanzarlo desde TegraRCMGUI.
+RR Pro integra un sistema modular de actualizaciones. Esto significa que ya no tendrás que venir a descargar de forma manual más actualizaciones. Usando el overlay, podrás pulsar el botón Home de la switch y manteniéndolo pulsado durante 3 segundos se hará emergente un menú, donde habrá un botón para que puedas actualizar.
 
-Tinfoil ha sido eliminado.
-
-Puedes eliminar de tu microSD de la carpeta swich, las carpetas Tinfoil y Mercury si aún las tienes. No se van a usar más en el contexto actual. Tinfoil requiere ahora una versión de Atmosphere preparada ad-hoc para esta herramienta y no es algo aceptable.
+Las actualizaciones ahora son más rápidas puesto que RetroReloaded ha sido troceado, para que las descargas sean independientes. Si se actualiza el payload de arranque no será necesario descargar todo el paquete completo como ocurría antes, y así ocurre en general con todo.
 
 Cuando utilices la herramienta Hekate desde RetroReloaded hay un botón que pone Back RR que te permite volver al boot manager de RetroReloaded cuando quieras.
 

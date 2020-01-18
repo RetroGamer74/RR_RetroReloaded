@@ -1,6 +1,9 @@
 # RR (RetroReloaded - Boot Manager)
 
-Very important: For all those users want to use RR Pro, remove all your folders in microSD except for the next ones: Nintend*,Emummc, Emutendo, and license.dat if you own SX OS. I suggest to do a backup of your switch folder before to delete it. Maybe you miss something later.
+Very important: 
+RetroReloaded Pro realiza will be updated when you press Update button in the home menu. This can be done just with internet connectivity. So be sure your DNS setup is adjusted as 90DNS or you're using stealh mode in SX OS.
+
+For all those users want to use RR Pro, remove all your folders in microSD except for the next ones: Nintend*,Emummc, Emutendo, and license.dat if you own SX OS. I suggest to do a backup of your switch folder before to delete it. Maybe you miss something later.
 You can see the changes of each version in the [Releases.](Https://github.com/RetroGamer74/RR_RetroReloaded/releases)
 
 ### Important changes

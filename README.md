@@ -21,17 +21,17 @@ Es un Boot Manager para Switch que permite arrancar de una forma preconfigurada 
 
 ( Ver los  CRÉDITOS para más información )
 
-![alt text](rr_boot_v3.jpg)
+![alt text](images/rr-boot-v4.jpg)
 
-![alt text](Settings-RR.jpg)
+![alt text](Settings-RR-v2.jpg)
 
-![alt text](Services-RR.jpg)
+![alt text](Services-RR-v2.jpg)
 
-![alt text](Overlay.jpg)
+![alt text](UpdateFeature.jpg)
 
 Overlay customizado.
 
-![alt text](muestra-update.jpg)
+![alt text](update-2020.jpg)
 
 Sistema AutoUpdate, ver más abajo información adicional.
 

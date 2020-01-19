@@ -31,7 +31,7 @@ Es un Boot Manager para Switch que permite arrancar de una forma preconfigurada 
 
 ![alt text](images/UpdateFeature.jpg)
 
-Overlay customizado.
+Overlay customizado. Botón de Actualizar.
 
 ![alt text](images/update-2020.jpg)
 

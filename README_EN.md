@@ -19,17 +19,19 @@ It is a Boot Manager for Switch that allows custom firmwares such as Atmosphere,
 
 (See CREDITS for more information)
 
-![alt text](rr_boot_v3.jpg)
+![alt text](images/rr-boot-v4.jpg)
 
-![alt text](Settings-RR.jpg)
+![alt text](images/Settings-RR-v2.jpg)
 
-![alt text](Services-RR.jpg)
+![alt text](images/Services-RR-v2.jpg)
 
-![alt text](Overlay.jpg)
+![alt text](images/HBApps-v2.jpg)
 
-Custom Overlay
+![alt text](images/UpdateFeature.jpg)
 
-![alt text](muestra-update.jpg)
+Custom overlay. Update feature. Red button.
+
+![alt text](images/update-2020.jpg)
 
 Autoupdate feature. See below.
 
@@ -43,6 +45,8 @@ Autoupdate feature. See below.
 You have two options. Use the Windows Installer, or download the zip in the [Releases] section (https://github.com/RetroGamer74/RR_RetroReloaded/releases) and extract it yourself on your microSD.
 
 #### Option 1
+#### DO NOT USE THIS METHOD TO INSTALL RR PRO. THIS IS JUST FOR RR. NOT PRO. PRO INSTALLATION REQUIRES MANUAL UPDATE JUST FOR THE FIRST TIME.
+
 Download the [Windows RetroReloaded Installer](https://github.com/RetroGamer74/RR_RetroReloaded-RetroReloaded-Switch-RR/blob/master/RR_Installer.rar) to prepare your microSD automatically.
 
 ![alt text](RR_Installer.jpg)

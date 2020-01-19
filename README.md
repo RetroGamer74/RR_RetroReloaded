@@ -44,6 +44,7 @@ Sistema AutoUpdate, ver más abajo información adicional.
 Tienes dos opciones. Utilizar el Windows Installer, o descargar el zip que hay en la sección de [Releases](https://github.com/RetroGamer74/RR_RetroReloaded/releases) y extraerlo tu mismo sobre tu microSD.
 
 #### Opción 1
+#### NO USAR ESTE MÉTODO SI LO QUE SE QUIERE ES INSTALAR RR PRO. ESTE INSTALADOR ES SOLO PARA RR.
 Descarga el [Windows RetroReloaded Installer](https://github.com/RetroGamer74/RR_RetroReloaded-RetroReloaded-Switch-RR/blob/master/RR_Installer.rar) para preparar tu microSD automáticamente. 
 
 ![alt text](RR_Installer.jpg)

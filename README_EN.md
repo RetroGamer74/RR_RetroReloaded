@@ -173,7 +173,7 @@ Depending on what you need you can use the custom firmwares that are available t
 
 ** [Atmosphere] **
 
-Currently 0.9.4.
+Currently 0.10.2.
 
 Supported firmware: 1.0.0 - 9.1.0
 

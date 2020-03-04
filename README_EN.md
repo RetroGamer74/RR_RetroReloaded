@@ -29,7 +29,7 @@ It is a Boot Manager for Switch that allows custom firmwares such as Atmosphere,
 
 ![alt text](images/UpdateFeature.jpg)
 
-Custom overlay. Update feature. Red button.
+Custom overlay. Update feature. Red button. Keep pressing home button two seconds and overlay menu will show up.
 
 ![alt text](images/update-2020.jpg)
 

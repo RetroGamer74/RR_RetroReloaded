@@ -4,7 +4,7 @@ Very important:
 RetroReloaded Pro realiza will be updated when you press Update button in the home menu. This can be done just with internet connectivity. So be sure your DNS setup is adjusted as 90DNS or you're using stealh mode in SX OS.
 
 For all those users want to use RR Pro, remove all your folders in microSD except for the next ones: Nintend*,Emummc, Emutendo, and license.dat if you own SX OS. I suggest to do a backup of your switch folder before to delete it. Maybe you miss something later.
-You can see the changes of each version in the [Releases.](Https://github.com/RetroGamer74/RR_RetroReloaded/releases)
+You can see the changes of each version in the [Releases.](Https://github.com/RetroGamer74/RR_RetroReloaded/releases) Remember to copy all those files related to backups like incognito tool or main switch backups made for example using hekate.
 
 ### Important changes
 RR Pro integrates a modular update system. This means that you will no longer have to manually download more updates. Using the overlay, you can press the Home button of the switch and keeping it pressed for 3 seconds a menu will pop up, where there will be a button for you to update.

@@ -4,7 +4,7 @@
 Muy Importante: 
 RetroReloaded Pro realiza actualizaciones a demanda del usuario mediante el botón actualizar. Esto sólo se puede realizar con conexión a internet. Por tanto asegúrate de que los DNS estén ajustados de acuerdo a los 90DNS o si utilizas SX OS el Stealth Mode esté activado.
 
-Para todos los usuarios que quieran migrar a RR Pro, por favor eliminar las carpetas de la microSD, exceptuando: Nintend*,Emummc, Emutendo, y la license.dat de SX OS si es que la tienes. Se recomienda hacer un backup de tu carpeta Switch antes de eliminarla por si acaso tienes que recuperar alguna cosa.
+Para todos los usuarios que quieran migrar a RR Pro, por favor eliminar las carpetas de la microSD, exceptuando: Nintend*,Emummc, Emutendo, y la license.dat de SX OS si es que la tienes. Se recomienda hacer un backup de tu carpeta Switch antes de eliminarla por si acaso tienes que recuperar alguna cosa. Recuerda recuperar los archivos de backup que pudiste haber hecho como por ejemplo incógnito o un backup completo de tu switch.
 
 Puedes ver los cambios de cada versión en las [Releases.](https://github.com/RetroGamer74/RR_RetroReloaded/releases)
 

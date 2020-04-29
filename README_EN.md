@@ -114,7 +114,7 @@ Of course. In the same way that you have activated it, it is deactivated. You en
 
 90DNS is a DNS service that provides IP addresses to be used as Primary DNS and Secondary DNS. Adjusted on your console's network settings, they will prevent it from connecting to NN services. Thus avoiding any risk of banning. In recent releases SX OS Stealth mode has been compromised so it is not a guarantee. We recommend all users to add 90DNS in addition to having Stealth mode enabled.
 
-Primary DNS: 163,172,141,219
+Primary DNS: 163.172.141.219
 
 Secondary DNS: 207.246.121.77
 
@@ -173,9 +173,9 @@ Depending on what you need you can use the custom firmwares that are available t
 
 ** [Atmosphere] **
 
-Currently 0.10.2.
+Currently 0.12.0.
 
-Supported firmware: 1.0.0 - 9.1.0
+Supported firmware: 1.0.0 - 10.0.1
 
 Includes support to play in Super Lan Play. You can play with your Switch, even if it is banned, with other players in multiplayer.
 
@@ -188,11 +188,11 @@ http://lanboard.retrogamer.tech
 
 **Second option:**
 
-** [ReiNX] **
+** [ReiNX] ** (by D3fau4)
 
-Currently 2.4
+Currently 2.6
 
-Firmwares supported: 1.0.0 - 9.1.0
+Firmwares supported: 1.0.0 - 10.0.1
 
 Includes support to play in Super Lan Play. You can play with your Switch, even if it is banned, with other players in multiplayer.
 
@@ -209,7 +209,7 @@ http://lanboard.retrogamer.tech
 
 Important: Remember to copy your license.dat to the root of your microSD.
 
-Firmware supported: 1.0.0 - 9.1.0 (2.9.3 Beta)
+Firmware supported: 1.0.0 - 10.0.1 (2.9.5 Beta)
 
 You can play in Super Lan Play as long as the Lan Play service in the options menu is enabled in SX OS and has been updated by SX OS developers.
 

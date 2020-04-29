@@ -174,9 +174,9 @@ Dependiendo de lo que necesites puedes utilizar los custom firmwares que están 
 
 **[Atmosphere]**
 
-Actualmente 0.10.2.
+Actualmente 0.12.0.
 
-Firmwares soportados: 1.0.0 - 9.1.0
+Firmwares soportados: 1.0.0 - 10.0.1
 
 Incluye soporte para jugar en Super Lan Play. Puedes jugar con tu Switch, incluso si está baneada, con otros jugadores en multiplayer. 
 
@@ -189,11 +189,11 @@ http://lanboard.retrogamer.tech
 
 **Segunda opción:**
 
-**[ReiNX]**
+**[ReiNX]** (by D3fau4)
 
-Currently 2.4
+Currently 2.6
 
-Firmwares supported: 1.0.0 - 9.1.0
+Firmwares supported: 1.0.0 - 10.0.1
 
 Incluye soporte para jugar en Super Lan Play. Puedes jugar con tu Switch, incluso si está baneada, con otros jugadores en multiplayer. 
 
@@ -210,7 +210,7 @@ http://lanboard.retrogamer.tech
 
 Importante: Recuerda copiar tu license.dat en la raíz de tu microSD.
 
-Firmware soportado: 1.0.0 - 9.1.0 (2.9.3 Beta)
+Firmware soportado: 1.0.0 - 10.0.1 (2.9.5 Beta)
 
 Puedes jugar en Super Lan Play siempre que el servicio Lan Play del menú de opciones esté habilitado en SX OS y haya sido actualizado por los desarrolladores de SX OS.
 

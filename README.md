@@ -41,6 +41,7 @@ Sistema AutoUpdate, ver más abajo información adicional.
 
 Incluido el soporte de overlay de Tesla y homebrew para tesla adicional.
 
+Haz emergente el menú Tesla pulsando: L + Dpad Abajo + R3
 
 [![Chat on Discord](https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d446973636f72642d627269676874677265656e2e737667)](https://discordapp.com/invite/cUnjkPH)
 

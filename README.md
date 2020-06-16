@@ -180,7 +180,7 @@ Dependiendo de lo que necesites puedes utilizar los custom firmwares que están 
 
 **[Atmosphere]**
 
-Actualmente 0.12.0.
+Actualmente 0.13.0.
 
 Firmwares soportados: 1.0.0 - 10.0.4
 
@@ -216,7 +216,7 @@ http://lanboard.retrogamer.tech
 
 Importante: Recuerda copiar tu license.dat en la raíz de tu microSD.
 
-Firmware soportado: 1.0.0 - 10.0.4 (2.9.5 Beta)
+Firmware soportado: 1.0.0 - 10.0.4 (3.0.2 Beta)
 
 Puedes jugar en Super Lan Play siempre que el servicio Lan Play del menú de opciones esté habilitado en SX OS y haya sido actualizado por los desarrolladores de SX OS.
 

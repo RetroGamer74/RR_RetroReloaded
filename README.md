@@ -216,7 +216,7 @@ http://lanboard.retrogamer.tech
 
 Importante: Recuerda copiar tu license.dat en la raíz de tu microSD.
 
-Firmware soportado: 1.0.0 - 10.1.0 (3.0.3 Beta)
+Firmware soportado: 1.0.0 - 10.1.0 (3.0.4 Beta)
 
 Puedes jugar en Super Lan Play siempre que el servicio Lan Play del menú de opciones esté habilitado en SX OS y haya sido actualizado por los desarrolladores de SX OS.
 

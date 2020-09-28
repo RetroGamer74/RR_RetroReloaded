@@ -25,7 +25,7 @@ It is a Boot Manager for Switch that allows custom firmwares such as Atmosphere,
 
 ![alt text](images/Services-RR-v2.jpg)
 
-![alt text](images/HBApps-v2.jpg)
+![alt text](images/HBApps-v3.jpg)
 
 ![alt text](images/UpdateFeature.jpg)
 

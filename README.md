@@ -27,7 +27,7 @@ Es un Boot Manager para Switch que permite arrancar de una forma preconfigurada 
 
 ![alt text](images/Services-RR-v2.jpg)
 
-![alt text](images/HBApps-v2.jpg)
+![alt text](images/HBApps-v3.jpg)
 
 ![alt text](images/UpdateFeature.jpg)
 

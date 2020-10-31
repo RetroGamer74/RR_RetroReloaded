@@ -180,7 +180,7 @@ Dependiendo de lo que necesites puedes utilizar los custom firmwares que están 
 
 **[Atmosphere]**
 
-Actualmente 0.14.4.
+Actualmente 0.15.0.
 
 Firmwares soportados: 1.0.0 - 10.2.0
 

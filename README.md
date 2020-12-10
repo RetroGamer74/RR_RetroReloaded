@@ -9,6 +9,12 @@ Para todos los usuarios que quieran migrar a RR Pro, por favor eliminar las carp
 Puedes ver los cambios de cada versión en las [Releases.](https://github.com/RetroGamer74/RR_RetroReloaded/releases)
 
 ### Cambios Importantes
+
+Mariko.
+Desde la versión 1.45, RR Pro da soporte a consolas Mariko a través de modchip. El modchip es necesario siempre.
+Para saber cómo operar y cómo funcionar, se ha incluido un archivo llamado README_Mariko.txt en la lista de archivos de la release.
+Léalo es muy importante.
+
 RR Pro integra un sistema modular de actualizaciones. Esto significa que ya no tendrás que venir a descargar de forma manual más actualizaciones. Usando el overlay, podrás pulsar el botón Home de la switch y manteniéndolo pulsado durante 3 segundos se hará emergente un menú, donde habrá un botón para que puedas actualizar.
 
 Las actualizaciones ahora son más rápidas puesto que RetroReloaded ha sido troceado, para que las descargas sean independientes. Si se actualiza el payload de arranque no será necesario descargar todo el paquete completo como ocurría antes, y así ocurre en general con todo.

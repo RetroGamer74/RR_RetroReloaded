@@ -7,6 +7,12 @@ For all those users want to use RR Pro, remove all your folders in microSD excep
 You can see the changes of each version in the [Releases.](Https://github.com/RetroGamer74/RR_RetroReloaded/releases) Remember to copy all those files related to backups like incognito tool or main switch backups made for example using hekate.
 
 ### Important changes
+
+Mariko.
+Since release 1.45, RR Pro supports Mariko consoles using modchip. You always will need modchip in order to hack mariko.
+To know how to boot RR Pro from Mariko or modchipped consoles please read the README_Mariko.txt file which is included in the files list of the RR Pro release.
+Read the file is very important.
+
 RR Pro integrates a modular update system. This means that you will no longer have to manually download more updates. Using the overlay, you can press the Home button of the switch and keeping it pressed for 3 seconds a menu will pop up, where there will be a button for you to update.
 
 Updates are now faster since RetroReloaded has been sliced, so that downloads are independent. If the boot payload is updated, it will not be necessary to download the entire package as before, and this is the case in general with everything.

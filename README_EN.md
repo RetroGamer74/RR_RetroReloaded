@@ -186,7 +186,7 @@ Depending on what you need you can use the custom firmwares that are available t
 
 Currently 0.16.0. PreRelease
 
-Supported firmware: 1.0.0 - 11.0.0
+Supported firmware: 1.0.0 - 11.0.1
 
 Includes support to play in Super Lan Play. You can play with your Switch, even if it is banned, with other players in multiplayer.
 

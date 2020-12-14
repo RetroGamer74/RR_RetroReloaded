@@ -11,7 +11,7 @@ Puedes ver los cambios de cada versión en las [Releases.](https://github.com/Re
 ### Cambios Importantes
 
 Mariko.
-La versión 1.49, RR Pro da soporte a consolas Mariko a través de modchip. El modchip es necesario siempre.
+La versión 1.49 de RR Pro da soporte a consolas Mariko a través de modchip. El modchip es necesario siempre.
 Para saber cómo operar y cómo funcionar, se ha incluido un archivo llamado README_Mariko.txt en la lista de archivos de la release.
 Léalo es muy importante.
 

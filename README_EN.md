@@ -9,7 +9,7 @@ You can see the changes of each version in the [Releases.](Https://github.com/Re
 ### Important changes
 
 Mariko.
-RR Pro 1.49 supports Mariko consoles using modchip. You always will need modchip in order to hack mariko.
+RR Pro 1.52 supports Mariko consoles using modchip. You always will need modchip in order to hack mariko consoles.
 To know how to boot RR Pro from Mariko or modchipped consoles please read the README_Mariko.txt file which is included in the files list of the RR Pro release.
 Read the file is very important.
 

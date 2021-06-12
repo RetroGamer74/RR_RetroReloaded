@@ -186,9 +186,9 @@ Dependiendo de lo que necesites puedes utilizar los custom firmwares que están 
 
 **[Atmosphere]**
 
-Actualmente 0.19.3
+Actualmente 0.19.4
 
-Firmwares soportados: 1.0.0 - 12.0.2
+Firmwares soportados: 1.0.0 - 12.0.3
 
 Incluye soporte para jugar en Super Lan Play. Puedes jugar con tu Switch, incluso si está baneada, con otros jugadores en multiplayer. 
 

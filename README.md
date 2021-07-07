@@ -3,7 +3,7 @@
 
 Muy Importante: 
 
-La nueva release de firmware 12.1.0 requiere que los usuarios Mariko actualicen el fichero hekate_keys.ini. Para obtenerlo actualizado conéctate a nuestro discord: https://discord.com/invite/cUnjkPH
+La nueva release de firmware 12.1.0 requiere que los usuarios Mariko actualicen el fichero hekate_keys.ini. Para obtenerlo actualizado conéctate a nuestro discord: https://discord.com/invite/cUnjkPH en el canal #switch y mira en la chincheta. ( Mensajes destacados )
 
 RetroReloaded Pro realiza actualizaciones a demanda del usuario mediante el botón actualizar. Esto sólo se puede realizar con conexión a internet. Por tanto asegúrate de que los DNS estén ajustados de acuerdo a los 90DNS o si utilizas SX OS el Stealth Mode esté activado.
 

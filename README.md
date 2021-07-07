@@ -2,6 +2,9 @@
 # RR Pro (RetroReloaded Pro - Gestor de Arranque)  - BETA
 
 Muy Importante: 
+
+La nueva release de firmware 12.1.0 requiere que los usuarios Mariko actualicen el fichero hekate_keys.ini. Para obtenerlo actualizado conéctate a nuestro discord: https://discord.com/invite/cUnjkPH
+
 RetroReloaded Pro realiza actualizaciones a demanda del usuario mediante el botón actualizar. Esto sólo se puede realizar con conexión a internet. Por tanto asegúrate de que los DNS estén ajustados de acuerdo a los 90DNS o si utilizas SX OS el Stealth Mode esté activado.
 
 Para todos los usuarios que quieran migrar a RR Pro, por favor eliminar las carpetas de la microSD, exceptuando: Nintend*,Emummc, Emutendo, y la license.dat de SX OS si es que la tienes. Se recomienda hacer un backup de tu carpeta Switch antes de eliminarla por si acaso tienes que recuperar alguna cosa. Recuerda recuperar los archivos de backup que pudiste haber hecho como por ejemplo incógnito o un backup completo de tu switch.
@@ -186,9 +189,9 @@ Dependiendo de lo que necesites puedes utilizar los custom firmwares que están 
 
 **[Atmosphere]**
 
-Actualmente 0.19.4
+Actualmente 0.19.5
 
-Firmwares soportados: 1.0.0 - 12.0.3
+Firmwares soportados: 1.0.0 - 12.1.0
 
 Incluye soporte para jugar en Super Lan Play. Puedes jugar con tu Switch, incluso si está baneada, con otros jugadores en multiplayer. 
 

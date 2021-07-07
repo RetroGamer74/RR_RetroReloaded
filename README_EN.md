@@ -1,6 +1,9 @@
 # RR (RetroReloaded - Boot Manager)
 
 Very important: 
+
+New firmware update 12.1.0 requires mariko users to update its hekate_keys.ini file. It is located in the bootloader folder of your SD card. To get this file updated go to our discord: https://discord.com/invite/cUnjkPH in the #switch channel. Look at the pinned messages.
+
 RetroReloaded Pro will be updated when you press Update button in the home menu. This can be done just with internet connectivity. So be sure your DNS setup is adjusted as 90DNS or you're using stealh mode in SX OS.
 
 For all those users want to use RR Pro, remove all your folders in microSD except for the next ones: Nintend*,Emummc, Emutendo, and license.dat if you own SX OS. I suggest to do a backup of your switch folder before to delete it. Maybe you miss something later.
@@ -184,9 +187,9 @@ Depending on what you need you can use the custom firmwares that are available t
 
 ** [Atmosphere] **
 
-Currently 0.19.4
+Currently 0.19.5
 
-Supported firmware: 1.0.0 - 12.0.3
+Supported firmware: 1.0.0 - 12.1.0
 
 Includes support to play in Super Lan Play. You can play with your Switch, even if it is banned, with other players in multiplayer.
 
